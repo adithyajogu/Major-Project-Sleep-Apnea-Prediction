@@ -1,0 +1,7 @@
+Software : Anaconda/Visual Studio Code
+Libraries: Keras,CNN,numpy,pytorch,pandas,matplotlib,Sklearn
+Primary Language: Python 3.10.7 with compatible version of pip
+Operating System: Windows 11
+Processor: i5 and above
+Ram: 8gb and above
+Hard Disk: 25GB in local drive
